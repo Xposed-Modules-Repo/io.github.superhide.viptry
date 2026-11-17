@@ -17,6 +17,8 @@
 - **效率相关**：桌面快捷方式、侧边栏快捷方式、模拟模板、数据备份与定时任务。
 - **多用户 / 双开**：可分别为不同用户空间生成独立机器码与配置。
 
+- 完整功能见这里 https://github.com/Xposed-Modules-Repo/io.github.superhide.viptry/blob/main/%E8%B6%85%E9%9A%90App%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E-%E5%AE%A3%E4%BC%A0.md
+
 ## 使用方法
 
 1. 在 LSPosed 中启用本模块，并**重启作用域内的目标应用**（必要时重启手机）。
